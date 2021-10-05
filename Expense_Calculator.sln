@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.1500
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expense_Calculator_Business", "Expense_Calculator_Business\Expense_Calculator_Business.csproj", "{D2984E56-36C0-46B5-8965-C625642B1CFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expense_Calculator_UI", "Expense_Calculator_UI\Expense_Calculator_UI.csproj", "{A4F838FA-CF9F-431B-BEB4-7AE57D2F34A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reactapp", "reactapp\reactapp.csproj", "{259BFACB-2B48-45D2-BCD8-8C478606756A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D2984E56-36C0-46B5-8965-C625642B1CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2984E56-36C0-46B5-8965-C625642B1CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2984E56-36C0-46B5-8965-C625642B1CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F838FA-CF9F-431B-BEB4-7AE57D2F34A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F838FA-CF9F-431B-BEB4-7AE57D2F34A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F838FA-CF9F-431B-BEB4-7AE57D2F34A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F838FA-CF9F-431B-BEB4-7AE57D2F34A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259BFACB-2B48-45D2-BCD8-8C478606756A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259BFACB-2B48-45D2-BCD8-8C478606756A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259BFACB-2B48-45D2-BCD8-8C478606756A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259BFACB-2B48-45D2-BCD8-8C478606756A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
